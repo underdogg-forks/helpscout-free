@@ -57,7 +57,7 @@ If you would like to be notified about new releases, news and updates you can su
 
 ## Installation
 
-[Installation Guide](https://github.com/freescout-helpdesk/freescout/wiki/Installation-Guide)
+[Installation Guide]( https://github.com/freescout-helpdesk/freescout/wiki/Installation-Guide )
 
 ## Modules
 
